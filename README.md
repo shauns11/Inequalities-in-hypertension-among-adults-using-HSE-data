@@ -1,4 +1,5 @@
 **Income-based inequalities in hypertension and in undiagnosed hypertension: analysis of Health survey for England data**
+
 *Journal of Hypertension* 2020:38: 912-924.
 
 Shaun Scholes, Anne Conolly and Jennifer S. Mindell
