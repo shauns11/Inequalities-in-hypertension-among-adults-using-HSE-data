@@ -11,7 +11,7 @@ and self-reported previous diagnosis of hypertension by a doctor or nurse. We th
 undiagnosed hypertension. Inequalities, using household income tertiles as an indicator
 of socioeconomic status, were quantified using average marginal effects (AMEs) after adjustment for confounding variables.
 
-**Results**: Overall, 32% of men and 27% of women had survey-defined hypertension (measured blood pressure $&ge$ 140/90mmHg and/or currently using medicine to treat
+**Results**: Overall, 32% of men and 27% of women had survey-defined hypertension (measured blood pressure ge 140/90mmHg and/or currently using medicine to treat
 high blood pressure). Higher proportions (38% of men and 32% of women) either self-reported previous diagnosis or had survey-defined hypertension. Of these, 65% of men
 and 70% of women had diagnosed hypertension. Among all adults, participants in low-income versus high-income households 
 had a higher probability of being hypertensive (AMEs: men 2.1%; 95% CI: -0.2, 4.4%; women 3.7%; 95% CI: 1.8, 5.5%) and of being diagnosed as 
