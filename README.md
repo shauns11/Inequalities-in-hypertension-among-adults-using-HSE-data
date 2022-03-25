@@ -2,7 +2,11 @@
 
 *Journal of Hypertension* 2020:38: 912-924.
 
-Shaun Scholes, Anne Conolly and Jennifer S. Mindell
+Shaun Scholes<sup>1</sup>, Anne Conolly<sup>2</sup> and Jennifer S. Mindell<sup>1</sup>
+
+<sup>1</sup> Department of Epidemiology and Public Health, University College London, 1-19 Torrington Place, London, WC1E 6BT, United Kingdom.
+
+<sup>2</sup> NatCen Social Research, London, UK
 
 **Objective**: To quantify income-based inequalities in hypertension and in undiagnosed hypertension.
 
